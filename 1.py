@@ -14,4 +14,4 @@ numeros = [10, 15, 20, 25, 30]
 media = calc_media(numeros)
 
 
-print(f"A média dos números é: {media}")
+print(f"A média dos números é: {media}") # f -> permite incorporar o valor da variável diretamente
